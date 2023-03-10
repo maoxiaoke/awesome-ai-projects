@@ -28,6 +28,10 @@
 - [Looka](https://looka.com/) - 自动生成 Logo
 - [usegalileo.ai](https://www.usegalileo.ai/) - 描述你的想法，自动生成设计稿（内测中）
 
+## 其他
+
+- [character.ai](https://beta.character.ai/) - 和 Elon Musk 等虚拟的角色交谈
+
 
 ## NSFW
 
