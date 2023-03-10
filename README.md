@@ -1,5 +1,9 @@
 # Awesome AI Projects
 
+## 写作
+
+- [Notion AI](https://www.notion.so/product/ai) 写作 AI，写笔记和文章的神器
+
 ## 绘画
 
 - [Midjourney](https://www.midjourney.com/home/) - 公认最强绘画 AI
