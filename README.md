@@ -3,6 +3,7 @@
 ## 写作
 
 - [Notion AI](https://www.notion.so/product/ai) 写作 AI，写笔记和文章的神器
+- [jasper.ai](https://beta.jasper.ai/) 最强的写作神器，收费
 
 ## 阅读
 
