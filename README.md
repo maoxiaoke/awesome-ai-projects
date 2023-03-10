@@ -4,6 +4,10 @@
 
 - [Notion AI](https://www.notion.so/product/ai) 写作 AI，写笔记和文章的神器
 
+## 阅读
+
+- [kagi.ai](https://labs.kagi.com/ai/sum) 为文章、视频等内容生成简介
+
 ## 绘画
 
 - [Midjourney](https://www.midjourney.com/home/) - 公认最强绘画 AI
