@@ -8,4 +8,4 @@
 
 ## 图片处理
 
-- [Remove.bg](https://www.remove.bg/) - 抠图 AI
+- [Remove.bg](https://www.remove.bg/) - 抠图 AI，免费
