@@ -8,6 +8,7 @@
 
 - [Tome](https://beta.tome.app/) - 自动生成 PPT，PPT 好帮手
 - [fliki.ai](https://app.fliki.ai/) - 文字转语音，自动添加字幕
+- [hoppycopy](https://app.hoppycopy.co/) 邮件 AI，帮你自动写、回复邮件
 
 ## 图片处理
 
